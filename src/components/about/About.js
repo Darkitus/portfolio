@@ -9,12 +9,12 @@ const About = () => {
         <h1 className="aboutTitle">A propos</h1>
         <div className="aboutDescription">
           <p className="descriptionParagraph">
-            Je m'appelle Lorette Bruno et je suis un Intégrateur Web débutant.
+            Je m'appelle Bruno Lorette et je suis un Intégrateur Web débutant.
           </p>
           <p className="descriptionParagraph">
             Bien que je sois encore au début de mon parcours dans le domaine,
-            j'ai déjà acquis des compétences solides en HTML, CSS, JavaScript,
-            et React.
+            j'ai déjà acquis de solides compétences en HTML, CSS, JavaScript, et
+            React.
           </p>
           <p className="descriptionParagraph">
             J'aime relever de nouveaux défis et continuer à apprendre pour
@@ -32,12 +32,20 @@ const About = () => {
             <i className="fab fa-github"></i> GitHub
           </a>
           <a
-            href="https://linkedin.com/in/votre-profil"
+            href="https://linkedin.com/in/brunolweb"
             className="socialLink"
             target="_blank"
             rel="noopener noreferrer"
           >
             <i className="fab fa-linkedin"></i> LinkedIn
+          </a>
+          <a
+            href="/docs/cv.pdf"
+            className="socialLink"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i className="fas fa-file-pdf"></i> Voir CV
           </a>
         </div>
       </div>

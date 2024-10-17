@@ -8,7 +8,7 @@ import Footer from "../../components/footer/Footer";
 
 const Home = () => {
   return (
-    <div className="animatedBackground">
+    <div className="background">
       <Header />
       <main>
         <About />

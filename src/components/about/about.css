@@ -133,7 +133,7 @@
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 575px) {
   .skillsList {
     gap: 10px;
     width: 90%;
