@@ -9,7 +9,8 @@ const About = () => {
         <h1 className="aboutTitle">A propos</h1>
         <div className="aboutDescription">
           <p className="descriptionParagraph">
-            Je m'appelle Bruno Lorette et je suis un Intégrateur Web débutant.
+            Je m'appelle Bruno Lorette et je suis un Intégrateur Web débutant
+            situé dans le Pas-de-Calais.
           </p>
           <p className="descriptionParagraph">
             Bien que je sois encore au début de mon parcours dans le domaine,
